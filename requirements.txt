@@ -1,0 +1,7 @@
+en_core_sci_sm==0.5.4
+numpy==1.21.5
+scispacy==0.5.5
+spacy==3.7.5
+torch==1.13.1
+transformers==4.48.0.dev0
+xmltodict==0.14.2
