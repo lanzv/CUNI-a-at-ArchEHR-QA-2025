@@ -78,15 +78,19 @@ python generate_solution.py \
 ## Citation
 
 ```bib
-TODO
-
-@inproceedings{lanz-pecina-2025-cuni-a,
-    title = "CUNI-a at ArchEHR-QA 2025: Do we need Giant LLMs for Clinical QA?",
-    author = "Lanz, Vojtech and Pecina, Pavel",
-    booktitle = "Proceedings of the 24rd Workshop on Biomedical Natural Language Processing",
+@inproceedings{lanz-pecina-2025-cuni,
+    title = "{CUNI}-a at {A}rch{EHR}-{QA} 2025: Do we need Giant {LLM}s for Clinical {QA}?",
+    author = "Lanz, Vojtech  and
+      Pecina, Pavel",
+    editor = "Soni, Sarvesh  and
+      Demner-Fushman, Dina",
+    booktitle = "Proceedings of the 24th Workshop on Biomedical Language Processing (Shared Tasks)",
     month = aug,
     year = "2025",
     address = "Vienna, Austria",
     publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.bionlp-share.4/",
+    pages = "27--40",
+    ISBN = "979-8-89176-276-3",
 }
 ```
